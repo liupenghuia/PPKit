@@ -1,0 +1,16 @@
+PODS:
+  - PPKit (0.1.0)
+
+DEPENDENCIES:
+  - PPKit (from `../`)
+
+EXTERNAL SOURCES:
+  PPKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PPKit: 4dfbbdd340fb0acbc29a4578c169961aebd55ee6
+
+PODFILE CHECKSUM: 9dffbe81b1541e6dd1523c4c562f496dbb33c1e4
+
+COCOAPODS: 1.16.2
